@@ -16,6 +16,6 @@ I. Local Marginal Price for Main Trading Hubs 2025 and 2026
    - 2. Daily Average Locational Marginal Pricing (LMP)
 
 II. Energy Curtailment
-    - 3. Cumalative Curtailment in 2025 and 2026
-    - 4. Monthly Curtailment
+    - 1. Cumalative Curtailment in 2025 and 2026
+    - 2. Monthly Curtailment
  
