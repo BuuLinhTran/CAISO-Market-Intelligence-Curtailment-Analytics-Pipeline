@@ -12,10 +12,10 @@ Developed an end-to-end Python pipeline to monitor grid health and pricing dynam
 
 ## Analysis and visualization:
 I. Local Marginal Price for Main Trading Hubs 2025 and 2026
-   - 1. Negative Instances of Negative Locational Marginal Pricing per Month
-   - 2. Daily Average Locational Marginal Pricing (LMP)
+   1. Negative Instances of Negative Locational Marginal Pricing per Month
+   2. Daily Average Locational Marginal Pricing (LMP)
 
 II. Energy Curtailment
-    - 1. Cumalative Curtailment in 2025 and 2026
-    - 2. Monthly Curtailment
+   1. Cumalative Curtailment in 2025 and 2026
+   2. Monthly Curtailment
  
