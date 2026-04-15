@@ -10,8 +10,8 @@ Tools and packages:
 I. Local Marginal Price for Main Trading Hubs 2025 and 2026
 - 1. Negative Instances of Negative Locational Marginal Pricing per Month
 - 2. Daily Average Locational Marginal Pricing (LMP)
+
 II. Energy Curtailment
 - 3. Cumalative Curtailment in 2025 and 2026
 - 4. Monthly Curtailment
  
-<img width="652" height="471" alt="Fig_1" src="https://github.com/user-attachments/assets/e67de470-fa42-4d87-9a96-bc8f290adbfb" />
